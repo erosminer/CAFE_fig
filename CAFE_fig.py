@@ -2,6 +2,8 @@
 
 
 from __future__ import print_function
+import PyQt5
+from PyQt5 import QtGui
 import ete3
 import argparse
 import re
